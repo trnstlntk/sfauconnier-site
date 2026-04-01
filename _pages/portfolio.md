@@ -1,8 +1,10 @@
 ---
 title: "Portfolio"
-layout: entries
+layout: collection
 permalink: /portfolio/
 collection: portfolio
-entries_layout: grid
+display_type: grid
+has_sidebar: true
 ---
-My projects, both professional and as a volunteer
+
+Overview of projects
