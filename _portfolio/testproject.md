@@ -1,5 +1,9 @@
 ---
+layout: single
 title: "Test Project"
+date_start: 2019-11-22
+date_end: 
+tags: [video, volunteer]
 excerpt: "Nonsense description of project"
 header:
   image: /assets/images/foo-bar-identity.jpg
