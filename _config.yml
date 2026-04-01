@@ -66,7 +66,7 @@ author:
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/sandrafauconnier/"
     - label: "Wikimedia"
-      icon: "fab fa-fw fa-wikipedia"
+      icon: "fab fa-fw fa-wikipedia-w"
       url: "https://meta.wikimedia.org/wiki/User:SFauconnier"
 
 footer:
@@ -78,7 +78,7 @@ footer:
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/sandrafauconnier/"
     - label: "Wikimedia"
-      icon: "fab fa-fw fa-wikipedia"
+      icon: "fab fa-fw fa-wikipedia-w"
       url: "https://meta.wikimedia.org/wiki/User:SFauconnier"
 
 defaults:
