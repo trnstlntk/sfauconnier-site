@@ -73,9 +73,9 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  blog:
+  pages:
     output: true
-    permalink: /blog/:path/
+    permalink: /:basename/
 
 footer:
   links:
