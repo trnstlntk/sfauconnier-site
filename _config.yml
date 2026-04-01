@@ -69,6 +69,14 @@ author:
       icon: "fab fa-fw fa-wikipedia-w"
       url: "https://meta.wikimedia.org/wiki/User:SFauconnier"
 
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+  blog:
+    output: true
+    permalink: /blog/:path/
+
 footer:
   links:
     - label: "Mastodon"
