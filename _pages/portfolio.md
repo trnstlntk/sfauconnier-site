@@ -3,8 +3,7 @@ title: "Portfolio"
 layout: collection
 permalink: /portfolio/
 collection: portfolio
-display_type: grid
-has_sidebar: true
+entries_layout: grid
 ---
 
 Overview of projects
