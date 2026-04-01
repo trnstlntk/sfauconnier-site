@@ -76,9 +76,6 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  pages:
-    output: true
-    permalink: /:basename/
 
 defaults:
   - scope:
