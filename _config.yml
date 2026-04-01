@@ -83,15 +83,15 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
   - scope:
       path: "_pages"
       type: pages
