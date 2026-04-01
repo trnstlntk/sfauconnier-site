@@ -9,4 +9,7 @@ header:
   teaser: /assets/images/wikiflix-lgbtq-directors.jpg
 excerpt: "An experimental public domain film browser, based on Wikidata"
 ---
+
+{{ page.date_start | date: "%Y" }}{% if page.date_end %} – {{ page.date_end | date: "%Y" }}{% else %} – {% endif %}
+
 a b c d e
