@@ -13,6 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+url: "https://trnstlntk.github.io"
+baseurl: "/sfauconnier-site"
+repository: "trnstlntk/sfauconnier-site"
 title: Sandra Fauconnier – Machien
 email:
 description: Project manager, producer, Wikimedian
@@ -97,10 +100,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
       share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
@@ -108,17 +108,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-      defaults:
   # _portfolio
   - scope:
       path: ""
       type: portfolio
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
-
-
+      
 category_archive:
   type: liquid
   path: /categories/
