@@ -28,4 +28,10 @@ In November 1998, I was one of the co-founders of a successful ‘peer to peer�
 
 Nowadays, the car sharing group is called Dégage: [https://www.degage.be](https://www.degage.be)
 
+{% capture notice-2 %}
+#### Read more
+
 * The car sharing initiative celebrated its 25th anniversary in 2024. [Read an interview (in Dutch) with me and a few other founders and early users]([https://www.example.com](https://www.degage.be/interview25jaar/))
+{% endcapture %}
+
+<div class="notice">{{ notice-2 | markdownify }}</div>
