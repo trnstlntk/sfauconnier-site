@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "MA thesis: Web-Specific Art"
-date_start: 1996
-date_end: 1997
-tags: [art history]
-excerpt: "I probably wrote the world’s first thesis about internet art."
+title: "Freelance work"
+date_start: 2020
+date_end: 
+tags: [freelance]
+excerpt: "Overview of freelance projects"
 header:
   image: /assets/images/carshare.gif
   teaser: /assets/images/carshare.gif
@@ -22,9 +22,13 @@ gallery:
 
 {{ page.date_start | date: "%Y" }}{% if page.date_end %} – {{ page.date_end | date: "%Y" }}{% else %} – {% endif %}
 
-I obtained a master's degree in Art History (Licentiaat Kunstwetenschappen) at Ghent University in 1997. In that same year I handed in my thesis, quite pompously entitled Web-specific art. Het World Wide Web als artistiek medium.
+This page shows a selection of freelance projects I did since 2020.
 
-It was in Dutch, it sounds a bit sweet and naive when you read it now. Probably one of its most interesting aspects, 30 years after publication, is that it contains several descriptions of interesting art projects that have been lost.
+RCE kennisbank
+
+Open Topstukken
+
+NADD
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
