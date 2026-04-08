@@ -1,8 +1,8 @@
 ---
-title: "Portfolio"
+title: "Projects"
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /projects/
+collection: projects
 entries_layout: grid
 sort_by: date_start
 sort_order: reverse
