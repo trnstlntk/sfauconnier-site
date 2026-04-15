@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "MA thesis: Web-Specific Art"
-date_start: 1996
-date_end: 1997
+title: "V2_Archive"
+date_start: 2000-01-01
+date_end: 2007-12-31
 tags: [art history]
-excerpt: "I probably wrote the world’s first thesis about internet art."
+excerpt: "Archive of digital and new media art"
 header:
   image: /assets/images/carshare.gif
   teaser: /assets/images/carshare.gif
