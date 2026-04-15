@@ -3,7 +3,7 @@ layout: single
 title: "ARTtube"
 date_start: 2011
 date_end: 2013
-tags: [web],[video]
+tags: [web, video]
 excerpt: "Video website for Belgian and Dutch museums"
 header:
   image: /assets/images/arttube.png
