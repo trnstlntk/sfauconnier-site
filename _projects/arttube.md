@@ -24,7 +24,7 @@ gallery:
 
 Between 2011 and 2013 I was project lead for ARTtube, a video platform and website for Dutch and Belgian museums. ARTtube started as the video channel of Rotterdam's Museum Boijmans Van Beuningen, and grew in 2011 to become a collaborative project. It existed until 2019.
 
-In 2014 I got the opportunity to become Wikimedian in Residence for Stichting Academisch Erfgoed, but I stayed connected to ARTtube as a freelancer. I became interested in videomaking as well, and did video production for museums for several years.
+In 2014 I got the opportunity to become Wikimedian in Residence for Stichting Academisch Erfgoed, but I stayed connected to ARTtube as a freelancer. I became interested in videomaking as well, and did (video production)[{{ site.baseurl }}/projects/video-production/] for museums for several years.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
