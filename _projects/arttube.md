@@ -4,7 +4,7 @@ title: "ARTtube"
 date_start: 2011
 date_end: 2013
 tags: [web],[video]
-excerpt: "I probably wrote the world’s first thesis about internet art."
+excerpt: "Video website for Belgian and Dutch museums"
 header:
   image: /assets/images/arttube.png
   teaser: /assets/images/arttube.png
