@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "MA thesis: Web-Specific Art"
-date_start: 1996
-date_end: 1997
-tags: [art history]
-excerpt: "I probably wrote the world’s first thesis about internet art."
+title: "dBONANZAh!"
+date_start: 1998-01-01
+date_end: 2001-12-31
+tags: [art]
+excerpt: "Early web-based and online art"
 header:
   image: /assets/images/carshare.gif
   teaser: /assets/images/carshare.gif
