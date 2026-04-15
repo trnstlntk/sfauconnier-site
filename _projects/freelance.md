@@ -2,7 +2,7 @@
 layout: single
 title: "Freelance work"
 date_start: 2020
-date_end: 
+date_end: 2026
 tags: [freelance]
 excerpt: "Overview of freelance projects"
 header:
