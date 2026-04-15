@@ -60,11 +60,38 @@ I (co)produced several short videos introducing the first editions.
 
 {% include video id="ItEnMG6wWxo" provider="youtube" %}
 
+### Sensory Spaces 8 - Mike Nelson (2016)
+
+{% include video id="OOVhK2W950U" provider="youtube" %}
+
+### Sensory Spaces 9 - Beni Bischof (2016)
+
+{% include video id="j6m-0tB5pUU" provider="youtube" %}
+
+### Sensory Spaces 10 - Olaf Nicolai (2016)
+
+{% include video id="y3IvAiM9Vus" provider="youtube" %}
+
 ## Various other videos for ARTtube and/or commissioned by museums
+
+### Gispen Specials (2016)
+
+{% include video id="H_iLgq_KVgU" provider="youtube" %}
+
+### The Memling restoration, a marathon (2018)
+
+{% include video id="YpuG-nTCJp4" provider="youtube" %}
+
+### Digital Art: Who Cares (2018)
+
+{% include video id="NRnUx32bRzI" provider="youtube" %}
 
 ## Wikimedia-related
 
-A nice introduction to Structured Data on Commons, produced together with ...
+A nice introduction to Structured Data on Commons, produced together with ... (2019)
+
+{% include video id="lmWmMIuCJVM" provider="youtube" %}
+
 
 
 
