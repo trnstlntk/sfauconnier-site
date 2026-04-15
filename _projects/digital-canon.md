@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "MA thesis: Web-Specific Art"
-date_start: 1996
-date_end: 1997
+title: "Digital Canon of the Netherlands"
+date_start: 2015-01-01
+date_end: 
 tags: [art history]
-excerpt: "I probably wrote the world’s first thesis about internet art."
+excerpt: "Mapping early digital and new media art in the Netherlands"
 header:
   image: /assets/images/carshare.gif
   teaser: /assets/images/carshare.gif
