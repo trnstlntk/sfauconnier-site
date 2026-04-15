@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "MA thesis: Web-Specific Art"
-date_start: 1996
-date_end: 1997
+title: "CD-ROM art"
+date_start: 2012-01-01
+date_end: 2013-12-31
 tags: [art history]
-excerpt: "I probably wrote the world’s first thesis about internet art."
+excerpt: "Researching artworks created for the CD-ROM medium"
 header:
   image: /assets/images/carshare.gif
   teaser: /assets/images/carshare.gif
