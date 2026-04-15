@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "MA thesis: Web-Specific Art"
-date_start: 1996
-date_end: 1997
-tags: [art history]
-excerpt: "I probably wrote the world’s first thesis about internet art."
+title: "Video production"
+date_start: 2015-01-01
+date_end: 2018-12-31
+tags: [video]
+excerpt: "Various online videos I (co)produced"
 header:
   image: /assets/images/carshare.gif
   teaser: /assets/images/carshare.gif
