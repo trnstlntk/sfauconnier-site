@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "ARTtube"
-date_start: 2011
-date_end: 2013
+date_start: 2011-01-01
+date_end: 2013-12-31
 tags: [web, video]
 excerpt: "Video website for Belgian and Dutch museums"
 header:
