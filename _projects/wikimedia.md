@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "MA thesis: Web-Specific Art"
-date_start: 1996
-date_end: 1997
-tags: [art history]
-excerpt: "I probably wrote the world’s first thesis about internet art."
+title: "Wikimedia contributions"
+date_start: 2011-01-01
+date_end: 
+tags: [volunteer, freelance]
+excerpt: "I actively contribute to commons-based projects, like Wikipedia, Wikidata, Wikimedia Commons, OpenStreetMap"
 header:
   image: /assets/images/carshare.gif
   teaser: /assets/images/carshare.gif
