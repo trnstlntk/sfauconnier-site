@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "MA thesis: Web-Specific Art"
-date_start: 1996
-date_end: 1997
+date_start: 1996-01-01
+date_end: 1997-12-31
 tags: [art history]
 excerpt: "I probably wrote the world’s first thesis about internet art."
 header:
