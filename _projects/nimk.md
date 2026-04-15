@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "MA thesis: Web-Specific Art"
-date_start: 1996
-date_end: 1997
+title: "NIMk collection"
+date_start: 2007-01-01
+date_end: 2011-12-31
 tags: [art history]
-excerpt: "I probably wrote the world’s first thesis about internet art."
+excerpt: "Collection and mediatheque of the Netherlands Media Art institute (NIMk)"
 header:
   image: /assets/images/carshare.gif
   teaser: /assets/images/carshare.gif
