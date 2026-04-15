@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "MA thesis: Web-Specific Art"
-date_start: 1996
-date_end: 1997
-tags: [art history]
-excerpt: "I probably wrote the world’s first thesis about internet art."
+title: "Structured Data on Wikimedia Commons"
+date_start: 2017-01-01
+date_end: 2019-12-31
+tags: [wikimedia]
+excerpt: "Enhancing Wikimedia Commons with multilingual, linked data"
 header:
   image: /assets/images/carshare.gif
   teaser: /assets/images/carshare.gif
