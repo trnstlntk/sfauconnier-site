@@ -6,8 +6,8 @@ date_end: 2011-12-31
 tags: [art history]
 excerpt: "Collection and mediatheque of the Netherlands Media Art institute (NIMk)"
 header:
-  image: /assets/images/carshare.gif
-  teaser: /assets/images/carshare.gif
+  image: /assets/images/NIMk-catalogue.png
+  teaser: /assets/images/NIMk-catalogue.png
 gallery:
   - url: /assets/images/carshare.gif
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
