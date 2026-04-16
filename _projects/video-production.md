@@ -1,13 +1,13 @@
 ---
 layout: single
 title: "Video production"
-date_start: 2015-01-01
-date_end: 2018-12-31
+date_start: 2013-01-01
+date_end:
 tags: [video]
 excerpt: "Various online videos I (co)produced"
 header:
-  image: /assets/images/carshare.gif
-  teaser: /assets/images/carshare.gif
+  image: /assets/images/video production - still 2019 SDC video.png
+  teaser: /assets/images/video production - still 2019 SDC video.png
 gallery:
   - url: /assets/images/carshare.gif
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -26,11 +26,31 @@ By being a project lead for ARTtube, I became very interested in online video, a
 
 Here are some videos I have active worked on, and sometimes (co)produced.
 
+## Various videos for ARTtube and/or commissioned by museums
+
+### Gispen Specials (2016)
+
+{% include video id="H_iLgq_KVgU" provider="youtube" %}
+
+### The Memling restoration, a marathon (2018)
+
+{% include video id="YpuG-nTCJp4" provider="youtube" %}
+
+### Digital Art: Who Cares (2018)
+
+{% include video id="NRnUx32bRzI" provider="youtube" %}
+
+## Wikimedia-related
+
+A nice introduction to Structured Data on Commons, produced together with ... (2019)
+
+{% include video id="lmWmMIuCJVM" provider="youtube" %}
+
 ## Museum Boijmans Van Beuningen - Sensory Spaces
 
 Sensory Spaces was a series of commissioned solo projects presented in the Willem van der Vorm Gallery, located in the freely accessible exhibition space in the entrance hall of Museum Boijmans Van Beuningen. Artists were invited to respond to the architectural qualities of the space, emphasizing notions of transformation and surprise.
 
-I (co)produced several short videos introducing the first editions.
+I (co)produced several short videos introducing the first editions of this exhibition series.
 
 ### Sensory Spaces 1 - Oscar Tuazon (2013)
 
@@ -72,26 +92,9 @@ I (co)produced several short videos introducing the first editions.
 
 {% include video id="y3IvAiM9Vus" provider="youtube" %}
 
-## Various other videos for ARTtube and/or commissioned by museums
+### Sensory Spaces 11 - Raphael Hefti (2017)
 
-### Gispen Specials (2016)
-
-{% include video id="H_iLgq_KVgU" provider="youtube" %}
-
-### The Memling restoration, a marathon (2018)
-
-{% include video id="YpuG-nTCJp4" provider="youtube" %}
-
-### Digital Art: Who Cares (2018)
-
-{% include video id="NRnUx32bRzI" provider="youtube" %}
-
-## Wikimedia-related
-
-A nice introduction to Structured Data on Commons, produced together with ... (2019)
-
-{% include video id="lmWmMIuCJVM" provider="youtube" %}
-
+{% include video id="08rgWFONtuw" provider="youtube" %}
 
 
 
@@ -100,7 +103,7 @@ A nice introduction to Structured Data on Commons, produced together with ... (2
 {% capture notice-2 %}
 #### Read more
 
-* [Read it here (and download a PDF)](http://www.spinster.be/web-specific-art)
+* [YouTube playlist](https://www.youtube.com/playlist?list=PLXtr3xMwkj6Okc-kK_NMigb4KZzt32QTQ)
 {% endcapture %}
 
 <div class="notice">{{ notice-2 | markdownify }}</div>
