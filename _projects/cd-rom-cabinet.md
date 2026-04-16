@@ -6,8 +6,8 @@ date_end: 2013-12-31
 tags: [art history]
 excerpt: "Researching artworks created for the CD-ROM medium"
 header:
-  image: /assets/images/carshare.gif
-  teaser: /assets/images/carshare.gif
+  image: /assets/images/cdromcabinet-banner.jpg
+  teaser: /assets/images/cdromcabinet-banner.jpg
 gallery:
   - url: /assets/images/carshare.gif
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
