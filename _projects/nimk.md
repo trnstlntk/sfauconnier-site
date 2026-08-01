@@ -8,30 +8,21 @@ excerpt: "Collection and mediatheque of the Netherlands Media Art institute (NIM
 header:
   image: /assets/images/NIMk-catalogue.png
   teaser: /assets/images/NIMk-catalogue.png
-gallery:
-  - url: /assets/images/carshare.gif
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/carshare.gif
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/carshare.gif
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
 ---
 
 {{ page.date_start | date: "%Y" }}{% if page.date_end %} – {{ page.date_end | date: "%Y" }}{% else %} – {% endif %}
 
-I obtained a master's degree in Art History (Licentiaat Kunstwetenschappen) at Ghent University in 1997. In that same year I handed in my thesis, quite pompously entitled Web-specific art. Het World Wide Web als artistiek medium.
+From 2007 till 2012, I worked for the collection and mediatheque of the Netherlands Media Art Institute (NIMk) in Amsterdam — since early 2013 known as LIMA. NIMk maintained a distribution collection of 2,000+ media artworks; you can still check its current collection database.
 
-It was in Dutch, it sounds a bit sweet and naive when you read it now. Probably one of its most interesting aspects, 30 years after publication, is that it contains several descriptions of interesting art projects that have been lost.
+I wrote artist biographies and artwork descriptions of new and historical works, and made sure these works were well documented in the collection management system. I did application management for NIMk's collection management software and database, and coordinated the development of NIMk's collection website.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+I also very much enjoyed giving frequent presentations about media art, information architecture and archiving to groups of higher education students and adults.
 
 {% capture notice-2 %}
 #### Read more
 
-* [Read it here (and download a PDF)](http://www.spinster.be/web-specific-art)
+* [NIMk/LIMA collection database](http://catalogue.li-ma.nl/)
+* [Presentation about new media art (2011, in Dutch)](http://www.slideshare.net/sandrafauconnier/intro-nieuwe-mediakunst-2011-master)
 {% endcapture %}
 
 <div class="notice">{{ notice-2 | markdownify }}</div>
