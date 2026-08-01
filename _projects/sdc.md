@@ -2,36 +2,30 @@
 layout: single
 title: "Structured Data on Wikimedia Commons"
 date_start: 2017-01-01
-date_end: 2019-12-31
+date_end: 2020-03-31
 tags: [wikimedia]
 excerpt: "Enhancing Wikimedia Commons with multilingual, linked data"
 header:
   image: /assets/images/carshare.gif
   teaser: /assets/images/carshare.gif
-gallery:
-  - url: /assets/images/carshare.gif
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/carshare.gif
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/carshare.gif
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
 ---
 
 {{ page.date_start | date: "%Y" }}{% if page.date_end %} – {{ page.date_end | date: "%Y" }}{% else %} – {% endif %}
 
-I obtained a master's degree in Art History (Licentiaat Kunstwetenschappen) at Ghent University in 1997. In that same year I handed in my thesis, quite pompously entitled Web-specific art. Het World Wide Web als artistiek medium.
+From July 2017, I was Community Liaison for Structured Data on Commons (SDC) at the Wikimedia Foundation, supporting collaboration between the communities (Commons, Wikidata, GLAM) and the product development teams at the Wikimedia Foundation and Wikimedia Deutschland. From February 2018 until March 2020, I continued on the project as Program Officer, GLAM and Structured Data, working with cultural institutions, Wikimedia communities, and development teams on various GLAM and culture-oriented pilot projects and documentation.
 
-It was in Dutch, it sounds a bit sweet and naive when you read it now. Probably one of its most interesting aspects, 30 years after publication, is that it contains several descriptions of interesting art projects that have been lost.
+Wikimedia Commons is a collection of more than 70 million free media files. Structured Data on Commons converted information about these files into a structured, machine-readable, multilingual format, making them easier to view, search, edit, organize and re-use.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include video id="lmWmMIuCJVM" provider="youtube" %}
+
+*Introduction video, produced together with Hang Do Thi Duc, with voice-over by Claudia Lo (2020).*
 
 {% capture notice-2 %}
 #### Read more
 
-* [Read it here (and download a PDF)](http://www.spinster.be/web-specific-art)
+* [Commons:Structured data, on Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Structured_data)
+* [Structured Data on Wikimedia Commons - talk by Sandra Fauconnier at WikidataCon 2017](https://media.ed.ac.uk/media/Structured+Data+on+Wikimedia+Commons+-+Sandra+Fauconnier+at+WikidataCon+2017/1_eqv3b6ug/51020161)
+* [Introduction video, on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Introduction_to_Structured_Data_on_Wikimedia_Commons.webm)
 {% endcapture %}
 
 <div class="notice">{{ notice-2 | markdownify }}</div>

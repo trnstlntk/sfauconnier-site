@@ -42,7 +42,7 @@ Here are some videos I have active worked on, and sometimes (co)produced.
 
 ## Wikimedia-related
 
-A nice introduction to Structured Data on Commons, produced together with ... (2019)
+A nice introduction to Structured Data on Commons, produced together with Hang Do Thi Duc, with voice-over by Claudia Lo (2020).
 
 {% include video id="lmWmMIuCJVM" provider="youtube" %}
 
