@@ -25,7 +25,7 @@ gallery:
 
 {{ page.date_start | date: "%Y" }}{% if page.date_end %} – {{ page.date_end | date: "%Y" }}{% else %} – {% endif %}
 
-In 2012–2013, I worked on *the CD-ROM Cabinet*, an initiative to document and safeguard artistic CD-ROMs from the 1990s, with lots of help from Annet Dekker and Ben Fino-Radin, and with financial support from the Mondriaan Fund.
+In 2012–2013, I worked on *the CD-ROM Cabinet*, an initiative to document and safeguard artistic CD-ROMs from the 1990s, with lots of help from [Annet Dekker](https://aaaan.net/) and [Cass Fino-Radin](https://finoradin.info/), and with financial support from the Mondriaan Fund.
 
 We inventoried 82 CD-ROM artworks, many published by Mediamatic and available in Dutch collections including NIMk and V2_, and we organized a CD-ROM hackathon at Van Abbemuseum in December 2012.
 
