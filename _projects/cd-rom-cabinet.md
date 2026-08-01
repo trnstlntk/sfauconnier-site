@@ -29,10 +29,6 @@ Since late 2012, I have been working on the CD-ROM Cabinet, an initiative to saf
 
 In the first six months, we inventoried 82 CD-ROM artworks, mostly from Dutch collections including NIMk and V2_, and organized a CD-ROM hackathon at Van Abbemuseum in December 2012.
 
-## Screen recordings
-
-<div class="responsive-video-container"><iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PLXtr3xMwkj6O4SqoQm1sNpID4LtNXYWaW" title="CD-ROM Cabinet screen recordings" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe></div>
-
 ## Some of the CD-ROM artworks
 
 {% include gallery caption="A selection of CD-ROM artworks documented by the CD-ROM Cabinet project. Sources: my own Flickr album, and the Internet Archive (Subotnick and Dement covers)." %}
@@ -41,11 +37,12 @@ In the first six months, we inventoried 82 CD-ROM artworks, mostly from Dutch co
 
 The CD-ROM Cabinet is one of the main sections of *Speculative Scenarios, or what will happen to born-digital art in the (near) future?*, edited by Annet Dekker (Baltan Laboratories, 2013). The full publication is available to read on the Internet Archive:
 
-<iframe src="https://archive.org/embed/2013-speculative-scenarios" width="100%" height="600" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/2013-speculative-scenarios#page/n97/mode/2up" width="100%" height="600" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 {% capture notice-2 %}
 #### Read more
 
+* [Screen recordings playlist on YouTube](https://youtube.com/playlist?list=PLXtr3xMwkj6O4SqoQm1sNpID4LtNXYWaW) - some videos are age-restricted and can only be viewed on YouTube itself
 * [Read a research report of the first six months](http://aaaan.net/the-cd-rom-cabinet-after-6-months/)
 * [The CD-ROM Cabinet on Tumblr](https://cdromcabinet.tumblr.com/) - screencasts, images and documentation of individual CD-ROM artworks
 * [Presentation slides: "The CD-ROM Cabinet: the first six months"](https://www.slideshare.net/slideshow/the-cdrom-cabinet-the-first-six-months/27088204), given at the Media Art Histories 2013: RENEW conference, Riga, October 2013
