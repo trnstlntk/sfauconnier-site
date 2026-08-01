@@ -6,8 +6,8 @@ date_end:
 tags: [volunteer, freelance]
 excerpt: "I actively contribute to commons-based projects, like Wikipedia, Wikidata, Wikimedia Commons, OpenStreetMap"
 header:
-  image: /assets/images/carshare.gif
-  teaser: /assets/images/carshare.gif
+  image: /assets/images/We_Can_Edit.jpg
+  teaser: /assets/images/We_Can_Edit.jpg
 ---
 
 {{ page.date_start | date: "%Y" }}{% if page.date_end %} – {{ page.date_end | date: "%Y" }}{% else %} – {% endif %}
