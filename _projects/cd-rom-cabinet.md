@@ -37,7 +37,7 @@ In the first six months, we inventoried 82 CD-ROM artworks, mostly from Dutch co
 
 The CD-ROM Cabinet is one of the main sections of *Speculative Scenarios, or what will happen to born-digital art in the (near) future?*, edited by Annet Dekker (Baltan Laboratories, 2013). The full publication is available to read on the Internet Archive, where you can [jump straight to the CD-ROM Cabinet section (page 94)](https://archive.org/details/2013-speculative-scenarios#page/n97/mode/2up).
 
-[![Cover of Speculative Scenarios, or what will happen to born-digital art in the (near) future?](/assets/images/cd-rom-cabinet/speculative-scenarios-cover.jpg)](https://archive.org/details/2013-speculative-scenarios "Read Speculative Scenarios on the Internet Archive")
+[![Cover of Speculative Scenarios, or what will happen to born-digital art in the (near) future?]({{ site.baseurl }}/assets/images/cd-rom-cabinet/speculative-scenarios-cover.jpg)](https://archive.org/details/2013-speculative-scenarios "Read Speculative Scenarios on the Internet Archive")
 
 {% capture notice-2 %}
 #### Read more
