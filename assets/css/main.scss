@@ -7,12 +7,14 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* Custom: give gallery images (half/third layouts) a uniform height,
-   so photos with different aspect ratios line up evenly. */
+/* Custom: give gallery images (half/third layouts) a uniform aspect
+   ratio, so photos with different proportions line up evenly and the
+   height scales fluidly with the column width. */
 figure.half,
 figure.third {
   img {
-    height: 240px;
+    aspect-ratio: 4 / 3;
+    height: auto;
     object-fit: cover;
   }
 }
