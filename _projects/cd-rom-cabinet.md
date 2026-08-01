@@ -25,25 +25,23 @@ gallery:
 
 {{ page.date_start | date: "%Y" }}{% if page.date_end %} – {{ page.date_end | date: "%Y" }}{% else %} – {% endif %}
 
-Since late 2012, I have been working on the CD-ROM Cabinet, an initiative to safeguard artistic CD-ROMs from the 1990s, with lots of help from Annet Dekker and Ben Fino-Radin, and with financial support from the Mondriaan Fund.
+In 2012–2013, I worked on *the CD-ROM Cabinet*, an initiative to document and safeguard artistic CD-ROMs from the 1990s, with lots of help from Annet Dekker and Ben Fino-Radin, and with financial support from the Mondriaan Fund.
 
-In the first six months, we inventoried 82 CD-ROM artworks, mostly from Dutch collections including NIMk and V2_, and organized a CD-ROM hackathon at Van Abbemuseum in December 2012.
+We inventoried 82 CD-ROM artworks, many published by Mediamatic and available in Dutch collections including NIMk and V2_, and we organized a CD-ROM hackathon at Van Abbemuseum in December 2012.
 
-## Some of the CD-ROM artworks
+With permission from some artists, a few .iso images and scans of disks and covers were made available on the Internet Archive.
 
-{% include gallery caption="A selection of CD-ROM artworks documented by the CD-ROM Cabinet project. Sources: my own Flickr album, and the Internet Archive (Subotnick and Dement covers)." %}
+{% include gallery caption="A selection of CD-ROM artworks documented by the CD-ROM Cabinet project. Sources: [Flickr](https://www.flickr.com/photos/spinster/albums/72157633371441264/) album, and the Internet Archive. The CD-ROMs are: V.O.L.V.O. Airbag; Morton Subotnick's [All My Hummingbirds Have Alibis](https://archive.org/details/cd-hummingbirds), and Linda Dement's [Cyberflesh Girlmonster](https://archive.org/details/Dement19950726)" %}
 
-## Speculative Scenarios publication
-
-The CD-ROM Cabinet is one of the main sections of *Speculative Scenarios, or what will happen to born-digital art in the (near) future?*, edited by Annet Dekker (Baltan Laboratories, 2013). The full publication is available to read on the Internet Archive, where you can [jump straight to the CD-ROM Cabinet section (page 94)](https://archive.org/details/2013-speculative-scenarios#page/n97/mode/2up).
+*The CD-ROM Cabinet* is also described in a section of *Speculative Scenarios, or what will happen to born-digital art in the (near) future?*, edited by Annet Dekker (Baltan Laboratories, 2013). [Read this section (page 94) - Internet Archive](https://archive.org/details/2013-speculative-scenarios#page/n97/mode/2up).
 
 [![Cover of Speculative Scenarios, or what will happen to born-digital art in the (near) future?]({{ site.baseurl }}/assets/images/cd-rom-cabinet/speculative-scenarios-cover.jpg)](https://archive.org/details/2013-speculative-scenarios "Read Speculative Scenarios on the Internet Archive")
 
 {% capture notice-2 %}
 #### Read more
 
-* [Screen recordings playlist on YouTube](https://youtube.com/playlist?list=PLXtr3xMwkj6O4SqoQm1sNpID4LtNXYWaW) - some videos are age-restricted and can only be viewed on YouTube itself
-* [Read a research report of the first six months](http://aaaan.net/the-cd-rom-cabinet-after-6-months/)
+* [Playlist of various screen recordings of CD-ROMs, on YouTube](https://youtube.com/playlist?list=PLXtr3xMwkj6O4SqoQm1sNpID4LtNXYWaW)
+* [Research report of the first six months](http://aaaan.net/the-cd-rom-cabinet-after-6-months/)
 * [The CD-ROM Cabinet on Tumblr](https://cdromcabinet.tumblr.com/) - screencasts, images and documentation of individual CD-ROM artworks
 * [Presentation slides: "The CD-ROM Cabinet: the first six months"](https://www.slideshare.net/slideshow/the-cdrom-cabinet-the-first-six-months/27088204), given at the Media Art Histories 2013: RENEW conference, Riga, October 2013
 * [Cited in Tate Research: "Resurrecting the Digital Past: Access to Artistic Content on CD-ROMs"](https://www.tate.org.uk/research/collection-care-research/resurrecting-the-digital-past-access-to-artistic-content-on-cd-roms)
