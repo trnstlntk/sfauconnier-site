@@ -37,11 +37,12 @@ In the first six months, we inventoried 82 CD-ROM artworks, mostly from Dutch co
 
 The CD-ROM Cabinet is one of the main sections of *Speculative Scenarios, or what will happen to born-digital art in the (near) future?*, edited by Annet Dekker (Baltan Laboratories, 2013). The full publication is available to read on the Internet Archive:
 
-<iframe src="https://archive.org/embed/2013-speculative-scenarios#page/n97/mode/2up" width="100%" height="600" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/2013-speculative-scenarios" width="100%" height="600" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 {% capture notice-2 %}
 #### Read more
 
+* [Jump straight to the CD-ROM Cabinet section (page 94) in the book on Internet Archive](https://archive.org/details/2013-speculative-scenarios#page/n97/mode/2up)
 * [Screen recordings playlist on YouTube](https://youtube.com/playlist?list=PLXtr3xMwkj6O4SqoQm1sNpID4LtNXYWaW) - some videos are age-restricted and can only be viewed on YouTube itself
 * [Read a research report of the first six months](http://aaaan.net/the-cd-rom-cabinet-after-6-months/)
 * [The CD-ROM Cabinet on Tumblr](https://cdromcabinet.tumblr.com/) - screencasts, images and documentation of individual CD-ROM artworks
