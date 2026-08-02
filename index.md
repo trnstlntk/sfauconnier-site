@@ -1,42 +1,20 @@
 ---
-layout: splash
+layout: archive
 author_profile: true
 title: "Sandra Fauconnier"
-excerpt: "Projects since the 1990s, at the intersection of cultural heritage and digital technology."
-feature_row:
-  - image_path: /assets/images/carshare.gif
-    alt: "Freelance work"
-    title: "Freelance work"
-    excerpt: "Overview of freelance projects."
-    url: /projects/freelance/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/wikiflix-lgbtq-directors.jpg
-    alt: "WikiFlix"
-    title: "WikiFlix"
-    excerpt: "An experimental public domain film browser, based on Wikidata."
-    url: /projects/wikiflix/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/carshare.gif
-    alt: "Digital Canon of the Netherlands"
-    title: "Digital Canon of the Netherlands"
-    excerpt: "Mapping early digital and new media art in the Netherlands."
-    url: /projects/digital-canon/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/We_Can_Edit.jpg
-    alt: "Wikimedia contributions"
-    title: "Wikimedia contributions"
-    excerpt: "I actively contribute to commons-based projects, like Wikipedia, Wikidata, Wikimedia Commons, OpenStreetMap."
-    url: /projects/wikimedia/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
+
+{% assign p1 = site.projects | where: "title", "Freelance work" %}
+{% assign p2 = site.projects | where: "title", "WikiFlix" %}
+{% assign p3 = site.projects | where: "title", "Digital Canon of the Netherlands" %}
+{% assign p4 = site.projects | where: "title", "Wikimedia contributions" %}
+{% assign featured = p1 | concat: p2 | concat: p3 | concat: p4 %}
 
 ## Featured projects
 
-{% include feature_row %}
+<div class="entries-grid">
+  {% include documents-collection.html entries=featured type="grid" %}
+</div>
 
 [View all projects]({{ site.baseurl }}/projects/){: .btn .btn--inverse}
 

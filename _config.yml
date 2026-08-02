@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Sandra Fauconnier"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Art historian working on cultural heritage, digital technology, open data, commons."
   links:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"

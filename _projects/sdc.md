@@ -6,8 +6,8 @@ date_end: 2020-03-31
 tags: [wikimedia]
 excerpt: "Enhancing Wikimedia Commons with multilingual, linked data"
 header:
-  image: /assets/images/carshare.gif
-  teaser: /assets/images/carshare.gif
+  image: /assets/images/sdc-isa-tool.png
+  teaser: /assets/images/sdc-isa-tool.png
 ---
 
 {{ page.date_start | date: "%Y" }}{% if page.date_end %} – {{ page.date_end | date: "%Y" }}{% else %} – {% endif %}
